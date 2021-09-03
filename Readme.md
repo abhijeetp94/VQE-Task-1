@@ -1,1 +1,3 @@
-# VQE Task 1
+# VQE for ZZ
+
+This is a simple Variational Quantum Eigensolver just for practice purposes. It has a very simple Hamiltonian i.e. $Z\otimes Z$.
