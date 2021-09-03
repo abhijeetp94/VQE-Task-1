@@ -1,1 +1,1 @@
-# $Z\otimes Z$ VQE
+# VQE Task 1
